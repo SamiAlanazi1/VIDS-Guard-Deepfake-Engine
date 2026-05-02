@@ -7,9 +7,7 @@
   <a href="https://doi.org/10.5281/zenodo.17362749">
     <img src="https://img.shields.io/badge/Dataset%20DOI-VIDS--Guard-green" />
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Model-Multi--Stream%20Transformer-orange" />
-  </a>
+
 </p>
 
 ---
