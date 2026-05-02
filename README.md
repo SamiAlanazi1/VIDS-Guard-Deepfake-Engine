@@ -72,3 +72,12 @@ This project uses the **VIDS-Guard Dataset (v1.0)**:
 ```bash
 git clone https://github.com/SamiAlanazi1/VIDS-Guard-Deepfake-Engine.git
 cd VIDS-Guard-Deepfake-Engine
+---
+
+## 🔗 Related Publication
+
+**Robust Video Deepfake Detection via Forensics-Aware Multi-Stream Learning**  
+*Information Sciences & Applications, 2026*
+
+- 📄 Paper: https://doi.org/10.1016/j.iswa.2026.200664  
+
