@@ -36,7 +36,7 @@ VIDS-Guard implements a **multi-stream fusion pipeline** that captures complemen
 ## 🖼️ Architecture
 
 <p align="center">
-  <img src="docs/architecture.jpg" width="700"/>
+  <img src="docs/architecture.png" width="700"/>
 </p>
 
 ---
