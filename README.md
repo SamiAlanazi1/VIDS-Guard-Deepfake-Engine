@@ -69,7 +69,7 @@ This project uses the **VIDS-Guard Dataset (v1.0)**:
 ## 🔗 Related Publication
 
 **Robust Video Deepfake Detection via Forensics-Aware Multi-Stream Learning**  
-*Information Sciences & Applications, 2026*
+*Information Sciences & Applications, 2026, Sami Alanazi, Seemal Asif* 
 
 - 📄 Paper: https://doi.org/10.1016/j.iswa.2026.200664
 ---
