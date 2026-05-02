@@ -72,5 +72,5 @@ This project uses the **VIDS-Guard Dataset (v1.0)**:
 
 ### 1. Clone repo
 ```bash
-git clone https://github.com/YOUR_USERNAME/VIDS-Guard-Deepfake-Engine.git
+git clone https://github.com/SamiAlanazi1/VIDS-Guard-Deepfake-Engine.git
 cd VIDS-Guard-Deepfake-Engine
