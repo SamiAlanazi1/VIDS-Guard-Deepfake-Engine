@@ -1,0 +1,15 @@
+## Dependencies
+
+The following Python packages are required to run the VIDS-Guard preprocessing, training, and evaluation pipeline.
+
+```text
+torch>=1.13
+torchvision>=0.14
+numpy>=1.21
+opencv-python>=4.6
+scikit-learn>=1.1
+scipy>=1.7
+Pillow>=9.0
+mtcnn>=0.1.1
+matplotlib>=3.5
+tqdm>=4.64

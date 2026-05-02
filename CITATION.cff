@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+title: "VIDS-Guard: Forensics-Aware Deepfake Video Detection"
+message: "If you use this software, please cite it using the metadata in this file."
+type: software
+
+authors:
+  - family-names: Alanazi
+    given-names: Sami
+  - family-names: Asif
+    given-names: Seemal
+
+repository-code: "https://github.com/IFRA-Cranfield/VIDS-Guard"
+
+keywords:
+  - deepfake detection
+  - video forensics
+  - temporal transformer
+  - multi-stream learning
+  - dataset
+  - cross-dataset generalization
+
+license: "Research-only (see LICENSE/README)"
+year: 2025
